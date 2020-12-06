@@ -14,4 +14,4 @@ The task is to create a simple TCP socket connection between two docker containe
 * The Server should print the messages it receives from the Client
 
 ## Bonus task
-Make sure that both the Docker images are less than 100MB in size
+**_Make sure that both the Docker images are less than 100MB in size_**
