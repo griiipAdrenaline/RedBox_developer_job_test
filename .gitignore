@@ -1,4 +1,7 @@
-consumer
-producer
+consumer/
+producer/
 
 docker-compose.yml
+main.py
+
+.idea
