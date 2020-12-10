@@ -43,3 +43,6 @@ giancarlo.nationality :arrow_right: "Italian"
 **Notes:** First and last names will be separated by a whitespace. The test will not include any middle names or 
 initials.
 The value of the keywords can be an int, a str or a list.
+
+## Submission
+To submit the solution please create a `.zip` file with your name and send it to `alonk@griiip.com`
